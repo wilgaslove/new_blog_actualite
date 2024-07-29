@@ -45,7 +45,7 @@
 
 <script lang="ts" setup>
 
-import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+import type { QueryBuilderParams } from '@nuxt/content'
 
 const query: QueryBuilderParams = { 
   path: '/sport', 
