@@ -1,5 +1,5 @@
 <template>
-   
+   <NavBarreComponent />
      <div class="
      ">
      
