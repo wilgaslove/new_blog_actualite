@@ -1,42 +1,37 @@
 <template>
 
     <div class="">
-      <div class="copyright flex justify-center  bottom-0 text-center text-lg text-white py-4 border-2 rounded- bg-black
+      <div class="copyright   bottom-0 text-center text-lg text-white py-4 border-2 rounded- bg-black
       sm:right-0 sm:left-0 sm:text-center sm:mx-auto   sm:flex sm:flex-col
       md:right-0 md:left-0 md:text-center md:mx-auto   md:flex md:flex-col
       lg:right-10 lg:left-10 lg:text-center lg:mx-auto   lg:flex lg:flex-col
       xl:right-[18%] xl:left-[18%]  xl:text-center xl:mx-auto   xl:flex xl:flex-col
-      2xl:right-[25%] 2xl:left-[25%]  2xl:text-center 2xl:mx-auto   2xl:flex 2xl:flex-col
+      2xl:right-[%] 2xl:left-[%]  2xl:text-center 2xl:mx-auto   2xl:flex 2xl:flex-col
       
       ">
   
-        <div class="flex justify-evenly w-[18%] sm
-        sm:mx-[25%] 
-        md:mx-auto
-        lg:mx-auto
-        xl:mx-auto
-        2xl:mx-auto
+        <div class="flex justify-evenly Wilgas
         ">
   
-        <a  href="/presentation"  class="animate-spin-slow ">
-         <svg width="25" height="25" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
-         <!-- <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-         <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g> -->
-         <g id="SVGRepo_iconCarrier">
+          <a  href="/presentation"  class="animate-spin-slow ">
+           <svg width="25" height="25" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+           <!-- <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+           <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g> -->
+           <g id="SVGRepo_iconCarrier">
+              
             
-          
-             <g id="Question" >
-                 <g id="Group" fill="#ffffff" transform="translate(2.000000, 2.000000)">
-                     <path d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 Z M10,22 C4.4771525,22 0,17.5228475 0,12 C0,6.4771525 4.4771525,2 10,2 C15.5228475,2 20,6.4771525 20,12 C20,17.5228475 15.5228475,22 10,22 Z M11,14 L11,16 L9,16 L9,14 L11,14 Z M11.0062094,6 C9.8970606,6 9,6.8954305 9,8 L7,8 C7,5.790861 8.791,4 11.0062094,4 C12.848,4 14,5.33800017 14,7 C14,8.17992845 13.5888832,9.02500733 12.4155828,9.65814995 C11.7944466,9.98667153 11.5249943,10.214037 11.4049197,10.4898983 L11.309813,10.7320508 L11.2205736,11 L9.1803471,11 L9.201,10.508 L9.28775192,10.2681756 C9.64478402,9.30482287 10.2582725,8.75757672 11.1682398,8.31521696 C11.6820647,8.0656443 12,7.69488317 12,7 C12,6.44771525 11.5543097,6 11.0062094,6 Z" id="Shape"></path>
-                 </g>
-             </g>
-         </g>
-        </svg>
+               <g id="Question" >
+                   <g id="Group" fill="#ffffff" transform="translate(2.000000, 2.000000)">
+                       <path d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 Z M10,22 C4.4771525,22 0,17.5228475 0,12 C0,6.4771525 4.4771525,2 10,2 C15.5228475,2 20,6.4771525 20,12 C20,17.5228475 15.5228475,22 10,22 Z M11,14 L11,16 L9,16 L9,14 L11,14 Z M11.0062094,6 C9.8970606,6 9,6.8954305 9,8 L7,8 C7,5.790861 8.791,4 11.0062094,4 C12.848,4 14,5.33800017 14,7 C14,8.17992845 13.5888832,9.02500733 12.4155828,9.65814995 C11.7944466,9.98667153 11.5249943,10.214037 11.4049197,10.4898983 L11.309813,10.7320508 L11.2205736,11 L9.1803471,11 L9.201,10.508 L9.28775192,10.2681756 C9.64478402,9.30482287 10.2582725,8.75757672 11.1682398,8.31521696 C11.6820647,8.0656443 12,7.69488317 12,7 C12,6.44771525 11.5543097,6 11.0062094,6 Z" id="Shape"></path>
+                   </g>
+               </g>
+           </g>
+          </svg>
+        
+          </a>
   
-        </a>
   
-  
-          <a  href="https://github.com/wilgaslove" target="_blank" class="" >
+          <a  href="https://github.com/wilgaslove" target="_blank" class="mx-10 sm:mx-1" >
             <svg height="20" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="20" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
               <path fill="#ffffff" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.1 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.09.16 1.9.08 2.1.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
             </svg>
@@ -44,7 +39,7 @@
           </a>
   
   
-          <a  href="https://wa.me/22995479236" target="_blank" class="w-[2rem]">
+          <a  href="https://wa.me/22995479236" target="_blank" class="mx-10 sm:mx-1">
           <svg width="20px" height="20px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
             <g>
              <path d="M222.882099,33.1179007 C199.721232,9.95703407 168.195504,-2.22044605e-16 134.875261,-2.22044605e-16 C60.6522343,-2.22044605e-16 0,60.6070987 0,134.666667 C0,157.848601 6.89459459,180.448874 20.1105675,200.170233 L0,256 L58.0784753,236.148717 C77.2453243,247.509284 100.006268,253.993754 124.397541,253.993754 L124.898551,253.993754 C198.469872,253.711657 258.667417,193.366259 258.667417,119.07194 C258.667417,85.752664 245.931353,54.236767 222.882099,33.1179007 L222.882099,33.1179007 Z" fill="#25D366"></path>
@@ -67,7 +62,7 @@
             <Icon name="bi:twitter-x" />
           </a> -->
         </div>
-        <span class="mr-4">&copy; {{ new Date().getFullYear() }} Groupe Soldats_du_Christ| Tous droits réservés.</span>
+        <span class="mr-4 Wilgas" >&copy; {{ new Date().getFullYear() }} Groupe Soldats_du_Christ| Tous droits réservés.</span>
   
   
       </div>
@@ -81,8 +76,10 @@
   </script>
   
   <style>
-  .sm a {
-  margin-inline: 8px;
+ 
+
+  .Wilgas {
+    margin-inline: auto;
   }
   
   </style>
