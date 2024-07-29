@@ -1,6 +1,6 @@
 <template>
 
-  <NavbarreComponent />
+  <NavBarreComponent />
 
   <div class="bg-white taille
   sm:mt-[35%]   sm:w-[80%]  sm:mx-
