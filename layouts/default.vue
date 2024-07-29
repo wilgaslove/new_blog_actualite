@@ -1,5 +1,7 @@
 <template>
   <div>
+    <PubliciteDroit />
+    <PubliciteGauche />
     <BarreDefillante />
     <slot />
     <Footer />
