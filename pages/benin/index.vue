@@ -1,5 +1,5 @@
 <template>
-  <NavBenin /> 
+  <NavBarreComponent />
   <div >
     <ContentList path="/benin" :query="query">
       <template #default="{list}">

@@ -1,7 +1,5 @@
 <template>
-  <!-- <NavBlog /> -->
-  <NavbarreComponent />
-
+  <NavBarreComponent />
   <div>
     <ContentList path="/sport"  :query="query" >
        <template #default="{list}">

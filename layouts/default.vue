@@ -1,5 +1,6 @@
 <template>
   <div>
+    <BarreDefillante />
     <slot />
     <Footer />
   </div>

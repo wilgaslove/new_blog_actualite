@@ -1,4 +1,5 @@
 <template>
+  <NavBarreComponent />
   <div>
     <ContentList path="/blog"  :query="query" >
        <template #default="{list}">

@@ -1,5 +1,5 @@
 <template>
-  <NavbarreComponent />
+  <NavBarreComponent />
 
   <div>
     <ContentList path="/culture"  :query="query" >
