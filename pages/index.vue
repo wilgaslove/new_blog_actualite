@@ -1,5 +1,4 @@
 <template>
-  <NavbarreComponent />   
    
      <div class="
      ">
