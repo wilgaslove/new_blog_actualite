@@ -4,7 +4,7 @@
     <body>
       <nav class="navbar dark-mode" role="navigation">
         <div class="container relative">
-          <ul class="navbar__links fixed top-6 xl:left-[22%] 2xl:left-[22%]">
+          <ul class="navbar__links fixed top-6">
             <li class="navbar__link first"><a class="navbarre"><NuxtLink to="/">Accueil</NuxtLink></a></li>
             <li class="navbar__link second"><a class="navbarre"><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
             <li class="navbar__link third"><a class="navbarre"><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
