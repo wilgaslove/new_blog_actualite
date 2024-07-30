@@ -13,7 +13,7 @@
           md:w-[60%] md:mx-auto md:bg- md:my-[25%]
           lg:w-[58%] lg:mx-auto lg:bg- lg:my-[15%]
           xl:w-[58%] xl:h-auto xl:mx-auto xl:bg- xl:my-[15%]
-          2xl:w-[85%] 2xl:h-auto 2xl:mx-auto 2xl:bg- 2xl:my-[15%]
+          2xl:w-[75%] 2xl:h-auto 2xl:mx-auto 2xl:bg- 2xl:my-[15%]
           ">
     <div v-for="(benin, index) in list" :key="index" class="bg-white rounded-2xl mb-1 border-2 border-[#aaba] my-4">
         <div class="h-[320px] sm:h-[200px] md:h-[250px] lg:h-[200px] xl:h-[250px] 2xl:h-[300px]">

@@ -7,7 +7,7 @@
     md:w-[20%] md:h-[18%] md:top-[27%] md:px-0 md:pt-0 md:text-xs md:bg-white
     lg:w-[18%] lg:h-[20%] lg:top-[27%] lg:px-0 lg:pt-0 lg:text-xs lg:bg-white
     xl:w-[15%] xl:h-[22%] xl:top-[27%] xl:px-0 xl:pt-0 xl:text-xs xl:mx-[8%] xl:bg-white
-    2xl:w-[15%] 2xl:h-[23%] 2xl:top-[27%] 2xl:px-0 2xl:pt-0 2xl:text-xs 2xl:mr-[13%] 2xl:bg-white
+    2xl:w-[15%] 2xl:h-[23%] 2xl:top-[27%] 2xl:px-0 2xl:pt-0 2xl:text-xs 2xl:mr-[10%] 2xl:bg-white
     ">
 
       <a href="https://highfiveuniversity.bj/" target="_blank"><img src="assets\img\about-11.ab071462.webp" alt="" class="object-cover bg[#bbb]" >
