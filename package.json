@@ -18,8 +18,11 @@
     "vue": "latest"
   },
   "devDependencies": {
+    "@types/node": "^22.0.0",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.40",
-    "tailwindcss": "^3.4.7"
+    "tailwindcss": "^3.4.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
   }
 }
