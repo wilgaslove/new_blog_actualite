@@ -4,8 +4,17 @@
     <ContentList path="/literature"  :query="query" >
        <template #default="{list}">
         <div class="
-
-
+         mt-[17%] 
+        sm:mt-[35%] 
+        md:mt-[25%]
+        lg:mt-[20%]
+        xl:mt-[15%]
+        2xl:mt-[15%]
+        sm:pt-4
+        md:pt-4
+        lg:pt-4
+        xl:pt-4
+        2xl:pt-4
         ">
           <div v-for="(literature, index) in list" :key="index" class="shadow-md rounded-2xl round-2xl mb-1 border-2 border-[#aaba] 
           sm:w-[75%] sm:h-[20%]  sm:mx-
