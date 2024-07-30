@@ -1,9 +1,9 @@
 ---
-title: 'l`amour en famille' 
+title: "l'amour en famille" 
 description: 'Un article qui parle sur l`amour en famille...' 
 tags: ["amour", "famille", "joyeux"]
 slug: 'amour_en_famille'
-thumbnail: '/img/joyeux-grand-pere-afro-americain-parlant-ses-petits-enfants-leurs-parents-lors-repas-famille_13339-318652.webp'
+thumbnail: '/img/joyeux-grand-pere-et-famille.webp'
 date: '2024-06-25'
 draft: false
 
