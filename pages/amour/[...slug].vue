@@ -2,14 +2,14 @@
 <NavBarreComponent />
 
   <div class="mt-[15%]  rounded-2xl
-  sm:mt-[30%] sm:mr-[15%] 
-  md:my-[18%] md:mx-[20%]
-  lg:my-[15%] lg:mx-[20%]
-  xl:my-[15%] xl:mx-[20%]
-  2xl:my-[14%] 2xl:mx-[20%]
+  sm:mt-[30%] sm:mx-[15%]   sm:pt-4
+  md:mt-[18%] md:mx-[20%]  md:pt-4
+  lg:mt-[15%] lg:mx-[20%]  lg:pt-4
+  xl:mt-[15%] xl:mx-[20%]  xl:pt-4
+  2xl:mt-[15%] 2xl:mx-[20%] 2xl:pt-4
   ">
 
-     <div class="bg-white pr-4 ">
+     <div class="bg-white px-4 ">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du amour-->
         <div class=" p-5">
@@ -39,9 +39,7 @@ const path = useRoute().fullPath ;
 </script>
 
 <style>
-.content img {
-  /* @apply lg:w-[200%]; */
-}
+
 .content p:not(:last-child){
   @apply text-[1.5rem] sm:text-[1rem] md:text-[1.3rem];
 }
