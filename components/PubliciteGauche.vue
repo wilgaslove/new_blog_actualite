@@ -17,7 +17,7 @@
    </div>
 
 
-   <div class="animate-pulse-slow fixed bottom-[21%] left-5   text-lg text-black py-5 px-4 shadow-2xl  h-[30%] w-[15%] 
+   <div class="fixed bottom-[21%] left-5   text-lg text-black py-5 px-4 shadow-2xl  h-[30%] w-[15%] 
     sm:hidden
     md:w-[20%] md:h-[10%] md:px-0 md:left-1 md:text-xs md:pt-0 md:bottom-[30%]
     lg:w-[15%] lg:h-[10%] lg:px-0 lg:left-1 lg:text-xs lg:pt-0 lg:ml-[5%] lg:bottom-[30%]
@@ -32,13 +32,14 @@
       xl:text-xs xl:px-0 xl:pt-0 
       2xl:text-xs 2xl:px-0 2xl:pt-0  
       ">
-        <a href="/presentation">
-          <img src="assets\img\logo.png" alt="" class="object-cover " >
+        <a href="">
+          <img src="assets\img\Front.png" alt="" class="object-cover " >
         </a>
         
-        <h1 class="font-bold text-black bg-white">
-          <a href="/presentation" >
-            Qui sommes-nous ?
+        <h1 class="font-bold text-black bg-white ml-2">
+          <a href="" >
+            Visitez votre boutique de Bijoux  <br> à Tokpa
+            (00229) 97 14 91 88
           </a>
         </h1>
       </div>
