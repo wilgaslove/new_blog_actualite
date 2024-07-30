@@ -3,12 +3,18 @@
   <div>
     <ContentList path="/sport"  :query="query" >
        <template #default="{list}">
-        <div class="mt-[17%] mb-[20%]
-        sm:mt-[35%] sm:mb-[15%]
-        md:my-[20%]
-        lg:my-[20%]
-        xl:my-[15%]
-        2xl:my-[15%]
+        <div class="
+         mt-[17%] 
+        sm:mt-[35%] 
+        md:mt-[25%]
+        lg:mt-[20%]
+        xl:mt-[15%]
+        2xl:mt-[15%]
+        sm:pt-4
+        md:pt-4
+        lg:pt-4
+        xl:pt-4
+        2xl:pt-4
 
 
         ">
