@@ -24,13 +24,7 @@
    2xl:w-[15%] 2xl:ml-[11%] 2xl:ml-[15%]
    ">
       
-      <div class="p-1  
-      sm:text-xs sm:px-0 sm:pt-0
-      md:text-xs md:px-0 md:pt-0 
-      lg:text-xs lg:px-0 lg:pt-0 
-      xl:text-xs xl:px-0 xl:pt-0 
-      2xl:text-xs 2xl:px-0 2xl:pt-0  
-      ">
+      <div class=" ">
         <a href="/presentation">
           <img src="assets\img\logo.png" alt="" class="object-cover " >
         </a>
