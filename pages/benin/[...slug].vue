@@ -2,18 +2,18 @@
 <template>
   <NavBarreBenin />
 
-  <div v-if="isCategory" class="mt-[5%] mb-[10%]
+  <div v-if="isCategory" class="mt-[5%] mb-[2%]
   
   ">
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[16%] 
-          sm:w-[80%] sm:mx- sm:bg- sm:mt-[40%]
-          md:w-[60%] md:mx-auto md:bg- md:my-[25%]
-          lg:w-[58%] lg:mx-auto lg:bg- lg:my-[15%]
-          xl:w-[58%] xl:h-auto xl:mx-auto xl:bg- xl:my-[15%]
-          2xl:w-[75%] 2xl:h-auto 2xl:mx-auto 2xl:bg- 2xl:my-[15%]
+          sm:w-[80%] sm:mx- sm:bg- sm:mt-[20%] sm:pt-10
+          md:w-[60%] md:mx-auto md:bg- md:mt-[15%]  md:pt-10
+          lg:w-[58%] lg:mx-auto lg:bg- lg:mt-[15%]  lg:pt-1
+          xl:w-[58%] xl:h-auto xl:mx-auto xl:bg- xl:mt-[15%]  xl:pt-1
+          2xl:w-[75%] 2xl:h-auto 2xl:mx-auto 2xl:bg- 2xl:mt-[15%]  2xl:pt-1
           ">
     <div v-for="(benin, index) in list" :key="index" class="bg-white rounded-2xl mb-1 border-2 border-[#aaba] my-4">
         <div class="h-[320px] sm:h-[200px] md:h-[250px] lg:h-[200px] xl:h-[250px] 2xl:h-[300px]">
@@ -37,7 +37,7 @@
         </template>
       </ContentList>
   </div>
-  <div v-else class="bg-white px-4 mb-[10%] 
+  <div v-else class="bg-white px-4 mb-[2%] 
       sm:w-[80%] sm:mt-[35%] sm:px-2 sm:bg-white
       md:w-[55%] md:mx-auto md: md:justify-center md:mt-[20%] md:bg-white
       lg:w-[60%] lg:mx-auto lg: lg:justify-center lg:mt-[15%] lg:bg-white
