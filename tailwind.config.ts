@@ -10,10 +10,10 @@ export default {
   theme: {
     extend: {
       animation: {
+        'spin-slow': 'spin 10s infinite',
         'bounce-slow': 'bounce 7s infinite',
         'pulse-slow': 'pulse 10s infinite',
-        'wiggle-slow': 'wiggle 1s infinite',
-        'spin-slow': 'spin 10s infinite'
+        'wiggle-slow': 'wiggle 1s infinite'
       },
     },
     screens: {
