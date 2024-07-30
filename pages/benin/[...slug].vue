@@ -1,6 +1,6 @@
 
 <template>
-  <NavBenin />
+  <NavBarreBenin />
 
   <div v-if="isCategory" class="mt-[5%] mb-[10%]
   
