@@ -1,6 +1,5 @@
 <template>
   <NavBarreComponent />
-
   <div>
     <ContentList path="/literature"  :query="query" >
        <template #default="{list}">

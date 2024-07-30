@@ -1,6 +1,5 @@
 <template>
-  <NavBarreComponent />
-
+<NavBarreComponent />
   <div>
     <ContentList path="/politique"  :query="query" >
        <template #default="{list}">
