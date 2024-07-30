@@ -16,12 +16,13 @@
     </div>
    </div>
 
-   <div class=" animate-pulse-slow fixed top-[55%] left-2 text-lg  py-5   h-[20%] w-[21%] 
-   sm:top-[60%] sm:left-[25%] sm:h-[20%] sm:w-[49%] sm:hidden 
-   md:w-[19%]  lg:mx-[4%]
-   lg:w-[15%]  xl:ml-[6%] 
-   xl:w-[15%]  xl:ml-[10%] 
-   2xl:w-[15%] 2xl:ml-[11%] 2xl:ml-[15%]
+   <!-- <div class=" fixed  left-5 shadow-2xl 
+    
+    md:w-[20%] md:h-[18%] md:px-0 md:left-1 md:pt-0 md:bottom-[30%]
+    lg:w-[15%] lg:h-[20%] lg:px-0 lg:left-1  lg:pt-0 lg:ml-[5%] lg:bottom-[30%]
+    xl:w-[15%] xl:h-[20%] xl:px-0 xl:left-1 xl:pt-0 xl:ml-[10%] xl:bottom-[3%]
+    2xl:w-[15%] 2xl:h-[20%] 2xl:px-0 2xl:left-1  2xl:pt-0 2xl:ml-[15%] 2xl:bottom-[30%] 2xl:hidden 
+   
    ">
       
       <div class=" ">
@@ -29,14 +30,14 @@
           <img src="assets\img\logo.png" alt="" class="object-cover " >
         </a>
         
-        <h1 class="font-bold text-black bg-white">
+        <h1 class="font-bold text-black bg-white text-lg text-black py-5 px-4">
           <a href="/presentation" >
             Qui sommes-nous ?
           </a>
         </h1>
       </div>
       
-    </div>
+    </div> -->
 
   </div>
 </template>
