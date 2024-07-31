@@ -32,12 +32,12 @@
       xl:text-xs xl:px-0 xl:pt-0 
       2xl:text-xs 2xl:px-0 2xl:pt-0  
       ">
-        <a href="">
+        <a href="/pubclient">
           <img src="assets\img\Front.png" alt="" class="object-cover " >
         </a>
         
         <h1 class="font-bold text-black bg-white ml-2">
-          <a href="" >
+          <a href="/pubclient" >
             Visitez votre boutique de Bijoux  <br> à Tokpa
             (00229) 97 14 91 88
           </a>
