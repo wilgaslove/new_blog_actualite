@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "new-blog-actu-1e3cf",
     "public": "dist",
     "ignore": [
       "firebase.json",
