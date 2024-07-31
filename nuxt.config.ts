@@ -4,6 +4,11 @@ export default defineNuxtConfig({
   
   // Ce paramètre est souvent spécifique à Nuxt 3 pour le répertoire de build
   nitro: {
+
+    prerender: {
+      routes: ['/', 'principalebenin', '/blog', '/politique', '/culture', '/literature', '/histoire', '/amour', '/sport', '/benin/emploi', '/benin/politique', '/benin/finance', '/benin/immobilier', '/benin/economie', '/benin/transport', '/principalebenin'] 
+    },
+  
     output: {
       dir: 'dist' // Utilisez 'dist' comme répertoire de sortie
     }
@@ -22,5 +27,9 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss", 
     "@vueuse/nuxt", 
     "nuxt-marquee"
-  ]
+  ],
+  content: {
+    //  dir: 'content',
+    //  apiPrefix: '_content',
+  },
 });
