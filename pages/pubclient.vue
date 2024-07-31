@@ -1,4 +1,5 @@
 <template>
+  <NavBarreComponent />
   <div>
     <p>
       Les bijoux ne sont pas seulement des accessoires de mode ; ils sont des symboles de beauté, de luxe et de sophistication. En intégrant des bijoux dans votre garde-robe, vous pouvez transformer une tenue ordinaire en une œuvre d'art. Que ce soit une paire de boucles d'oreilles scintillantes, un collier élégant ou une bague étincelante, chaque pièce de bijou ajoute une touche de glamour et d'exclusivité à votre apparence. Les bijoux ont le pouvoir de rehausser votre style personnel et de vous faire sentir unique et spécial.
