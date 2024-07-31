@@ -16,7 +16,8 @@
     </div>
   
     <article>
-      <h1 class="text-4xl font-bold animate-pulse-slow text-red-600/100 p-4 
+      <h1 class="text-4xl font-bold animate-pulse-slow 
+       text-red-600/100 p-4 
       sm:text-[1.5rem] 
       md:text-[1.5rem] 
       lg:text-[1.5rem] 

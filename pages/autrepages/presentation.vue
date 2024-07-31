@@ -2,12 +2,12 @@
 
   <NavBarreComponent />
 
-  <div class="bg-white taille
+  <div class="bg-white taille 
   sm:mt-[35%]   sm:w-[80%]  sm:mx-
-  md:my-[23%]   md:w-[60%]  md:mx-auto
-  lg:my-[14%]   lg:w-[60%]  lg:mx-auto
-  xl:my-[14%]   xl:w-[65%]  xl:mx-auto
-  2xl:my-[14%]  2xl:w-[70%]  2xl:mx-auto
+  md:mt-[23%]   md:w-[60%]  md:mx-auto
+  lg:mt-[14%]   lg:w-[60%]  lg:mx-auto
+  xl:mt-[14%]   xl:w-[65%]  xl:mx-auto
+  2xl:mt-[14%]  2xl:w-[70%]  2xl:mx-auto
 
   ">
     <h1>Soldats Du Christ</h1>

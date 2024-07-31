@@ -17,7 +17,7 @@
             <li class="navbar__link fifth"><a><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></a></li>
             <li class="navbar__link six"><a><NuxtLink to="/benin/economie">Economie</NuxtLink></a></li>
             <li class="navbar__link seven"><a><NuxtLink to="/benin/transport">Transport</NuxtLink></a></li>
-            <li class="navbar__link eight"><a><NuxtLink to="/principalebenin">Bénin</NuxtLink></a></li>
+            <li class="navbar__link eight"><a><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
           </ul>
           <button class="burger">
             <span class="bar"></span>
