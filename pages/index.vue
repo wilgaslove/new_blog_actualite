@@ -44,6 +44,24 @@
                  <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">LANCEMENT OFFICIEL DU LIVRE OSEZ LA PURETÉ.</a></p>
              </div>
          </div>
+
+         <div>
+             <div class="
+             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+             ">
+                   
+               <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">
+               <img src="assets\img\Paola Egonu.jpg" alt="image Osez la pureté"  class="">
+               </a>
+               <p >
+                   
+                 <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">JO 2024 : Paola Egonu, star du volley-ball italien et figure de la lutte antiraciste.</a></p>
+             </div>
+         </div>
    
          <div>
                    
