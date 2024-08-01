@@ -29,11 +29,11 @@
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px] ">
               <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
-            <h2 class="font-bold text-2xl">
+            <h2 class="font-bold text-2xl pl-[5px]">
               <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>
             </h2>
-            <p v-if="blog.description">{{ blog.description }}</p>
-            <p>{{ formatDate(blog.date) }}</p>
+            <p v-if="blog.description" class="pl-[5px]" >{{ blog.description }}</p>
+            <p class="pl-[5px]" >{{ formatDate(blog.date) }}</p>
           </div>
         </div>
       
