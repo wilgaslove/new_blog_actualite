@@ -6,7 +6,6 @@
         <div class="container relative">
           <ul class="navbar__links fixed top-6">
             <li class="navbar__link first"><a class="navbarre"><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link second"><a class="navbarre"><NuxtLink to="/benin/principalebenin">Bénin</NuxtLink></a></li>
             <li class="navbar__link third"><a class="navbarre"><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
             <li class="navbar__link four"><a class="navbarre"><NuxtLink to="/politique">Politique</NuxtLink></a></li>
             <li class="navbar__link fifth"><a class="navbarre"><NuxtLink to="/culture">Culture</NuxtLink></a></li>
