@@ -29,11 +29,11 @@
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px] ">
               <img :src=" histoire.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
-            <h2 class="font-bold text-2xl">
+            <h2 class="font-bold text-2xl pl-[5px]">
               <NuxtLink :to="'/histoire/' + histoire.slug">{{ histoire.title }}</NuxtLink>
             </h2>
-            <p v-if="histoire.description">{{ histoire.description }}</p>
-            <p>{{ formatDate(histoire.date) }}</p>
+            <p v-if="histoire.description" class="pl-[5px]">{{ histoire.description }}</p>
+            <p class="pl-[5px]">{{ formatDate(histoire.date) }}</p>
           </div>
         </div>
       
