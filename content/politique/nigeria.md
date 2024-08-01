@@ -1,6 +1,6 @@
 ---
-title: 'La Situation de la Raffinerie d'Aliko Dangote au Nigéria'
-description: 'Aliko Dangote, l'homme le plus riche d'Afrique, a entrepris un projet ambitieux avec la construction de la raffinerie de Dangote'
+title:  "La Situation de la Raffinerie d'Aliko Dangote au Nigéria"
+description: " Aliko Dangote, l'homme le plus riche d'Afrique, a entrepris un projet ambitieux avec la construction de la raffinerie de Dangote"
 tags: ["Aliko Dangote", "raffinerie", "Dangote", "Lekki", "Nigéria", "logistiques"]
 slug: 'nigeria'
 thumbnail: '/img/dangote-raffinerie.png'
