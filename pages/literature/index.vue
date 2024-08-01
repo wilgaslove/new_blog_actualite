@@ -27,11 +27,11 @@
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px]">
               <img :src=" literature.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
-            <h2 class="font-bold text-2xl">
+            <h2 class="font-bold text-2xl pl-[5px]">
               <NuxtLink :to="'/literature/' + literature.slug">{{ literature.title }}</NuxtLink>
             </h2>
-            <p v-if="literature.description">{{ literature.description }}</p>
-            <p>{{ formatDate(literature.date) }}</p>
+            <p v-if="literature.description" class="pl-[5px]">{{ literature.description }}</p>
+            <p class="pl-[5px]">{{ formatDate(literature.date) }}</p>
           </div>
         </div>
       
