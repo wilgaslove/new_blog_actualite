@@ -23,8 +23,5 @@ export default defineNuxtConfig({
     "@vueuse/nuxt", 
     "nuxt-marquee"
   ],
-  content: {
-    //  dir: 'content',
-    //  apiPrefix: '_content',
-  },
+  
 });
