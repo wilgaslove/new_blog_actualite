@@ -13,7 +13,7 @@
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du amour-->
         <div class=" p-5">
-          <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem] lg:text-[2rem] xl:text-[2rem] 2xl:text-[2.5rem] ">{{ doc.title }}</h1>
+          <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem] lg:text-[2rem] xl:text-[2rem] 2xl:text-[2.5rem]">{{ doc.title }}</h1>
           <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%] ">
         </div>
        

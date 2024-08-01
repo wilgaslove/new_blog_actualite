@@ -29,11 +29,11 @@
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px] ">
               <img :src=" sport.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
-            <h2 class="font-bold text-2xl">
+            <h2 class="font-bold text-2xl pl-[5px]">
               <NuxtLink :to="'/sport/' + sport.slug">{{ sport.title }}</NuxtLink>
             </h2>
-            <p v-if="sport.description">{{ sport.description }}</p>
-            <p>{{ formatDate(sport.date) }}</p>
+            <p v-if="sport.description" class="pl-[5px]" >{{ sport.description }}</p>
+            <p class="pl-[5px]" >{{ formatDate(sport.date) }}</p>
           </div>
         </div>
       

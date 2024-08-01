@@ -17,11 +17,11 @@
           <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%] ">
         </div>
        
-        <p class="text-gray-500 text-sm mt-2">
+        <p class="text-gray-500 text-sm mt-2 pl-[5px]">
           {{ doc.date  }}
         </p>
           <!-- Contenu du blog -->
-          <ContentRenderer :value="doc" class="content mb-[10%] "/>
+          <ContentRenderer :value="doc" class="content mb-[10%] pl-[5px] "/>
        
        
            </ContentDoc>
