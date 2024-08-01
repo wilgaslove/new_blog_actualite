@@ -18,7 +18,7 @@
         2xl:pt-4
 
         ">
-          <div v-for="(amour, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba]  rounded-2xl
+          <div v-for="(amour, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba]  rounded-2xl 
           sm:w-[75%] sm:h-[20%]  
           md:w-[55%] md:h-[20%]    md:mx-auto  
           lg:w-[55%] lg:h-[20%]    lg:mx-auto  
@@ -29,11 +29,11 @@
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px] ">
               <img :src=" amour.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
-            <h2 class="font-bold text-2xl">
+            <h2 class="font-bold text-2xl pl-[5px]">
               <NuxtLink :to="'/amour/' + amour.slug">{{ amour.title }}</NuxtLink>
             </h2>
-            <p v-if="amour.description">{{ amour.description }}</p>
-            <p>{{ formatDate(amour.date) }}</p>
+            <p v-if="amour.description" class="pl-[5px]" >{{ amour.description }}</p>
+            <p class="pl-[5px]" >{{ formatDate(amour.date) }}</p>
           </div>
         </div>
       
