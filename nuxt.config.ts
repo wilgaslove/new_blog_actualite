@@ -4,8 +4,8 @@ export default defineNuxtConfig({
   
   // Ce paramètre est souvent spécifique à Nuxt 3 pour le répertoire de build
   nitro: {
-    output: {
-      dir: 'dist' // Utilisez 'dist' comme répertoire de sortie
+    firebase: {
+      gen: 2
     }
   },
 
