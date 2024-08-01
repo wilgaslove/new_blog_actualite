@@ -1,6 +1,6 @@
 <template>
   <NavBarreComponent />
-  <div class="
+  <div class=" bg-white
    mt-[17%] 
         sm:mt-[35%] 
         md:mt-[25%]
