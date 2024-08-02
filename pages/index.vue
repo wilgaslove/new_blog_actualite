@@ -26,6 +26,23 @@
              </div>
          </div>
    
+         <div>
+             <div class="
+             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+             ">
+                   
+               <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">
+               <img src="assets\img\independance-960x960.jpeg" alt="image Osez la pureté"  class="">
+               </a>
+               <p >
+                   
+                 <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">1er août 2024 : 64e célébration de l'Indépendance du Bénin | manifestations officielles.</a></p>
+             </div>
+         </div>
    
         <div>
              <div class="
