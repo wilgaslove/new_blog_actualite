@@ -15,15 +15,15 @@
             <li class="navbar__link eight"><a class="navbarre"><NuxtLink to="/amour">Amour & Conseil</NuxtLink></a></li>
             <li class="navbar__link nine"><a class="navbarre"><NuxtLink to="/sport">Sport</NuxtLink></a></li>
 
-          <ColorMode class=" sm:hidden md:hidden xl:hidden 2xl:hidden" />
+          <ColorMode class=" sm:hidden md:hidden xl:hidden 2xl:hidden mr-[2rem]" />
           </ul>
-          <ColorMode class=" lg:hidden xl:hidden 2xl:hidden" />
+          <ColorMode class=" lg:hidden xl:hidden 2xl:hidden mr-[2rem]" />
 
           <button class="burger">
             <span class="bar"></span>
           </button>
         </div>
-        <ColorMode class="sm:hidden md:hidden lg:hidden" />
+        <ColorMode class="sm:hidden md:hidden lg:hidden mr-[2rem]" />
       </nav>
     </body>
   </div>
