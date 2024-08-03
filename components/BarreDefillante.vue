@@ -1,7 +1,7 @@
 <template>
   <!-- Utilisation du module marquee de nuxt: npx nuxi@latest module add marquee -->
   <div class="barrdefillante">
-    <marquee behavior="scroll" direction="left" class="text-black bg-white marquee fixed  left-0 right-0 py-4 text-lg  font-bold
+    <marquee behavior="scroll" direction="left" class=" text-slate-800 dark:text-gray-200 bg-white dark:bg-slate-800  marquee fixed  left-0 right-0 py-4 text-lg  font-bold
     sm:top-[8%]
     md:top-[7%]
     lg:top-[7%]
