@@ -8,7 +8,7 @@
   2xl:mt-[15%] 2xl:mx-[20%] 2xl:pt-4
   ">
 
-     <div class="bg-white pr-4 ">
+     <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500 pr-4 ">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du blog-->
         <div class=" p-5">
