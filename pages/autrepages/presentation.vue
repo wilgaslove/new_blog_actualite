@@ -2,7 +2,7 @@
 
   <NavBarreComponent />
 
-  <div class="bg-white taille mb-[1rem] 
+  <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500 taille mb-[1rem] 
   sm:mt-[30%]   sm:w-[80%]  sm:mx-
   md:mt-[20%]   md:w-[60%]  md:mx-auto
   lg:mt-[14%]   lg:w-[60%]  lg:mx-auto

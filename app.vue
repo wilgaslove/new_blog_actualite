@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-gray-100 dark:bg-black">
+  
+  <div class= " text-slate-800 dark:text-gray-200 bg-gray-200 dark:bg-slate-800 ">
     
     <div class="max-w-4xl px-4 mx-auto">
       <NuxtLayout >

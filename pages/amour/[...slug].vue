@@ -1,7 +1,7 @@
 <template>
 <NavBarreComponent />
 
-  <div class="mt-[15%]  rounded-2xl
+  <div class="mt-[15%]  rounded-2xl 
   sm:mt-[30%] sm:mr-[22%]   sm:pt-10
   md:mt-[18%] md:mx-[20%]  md:pt-10
   lg:mt-[15%] lg:mx-[20%]  lg:pt-4
@@ -9,7 +9,7 @@
   2xl:mt-[15%] 2xl:mx-[20%] 2xl:pt-4
   ">
 
-     <div class="bg-white px-4 ">
+     <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500 ">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du amour-->
         <div class=" p-5">
@@ -21,7 +21,7 @@
           {{ doc.date  }}
         </p>
           <!-- Contenu du amour -->
-          <ContentRenderer :value="doc" class="content mb-[10%] pl-[5px]"/>
+          <ContentRenderer :value="doc" class="content mb-[10%] pl-[5px] "/>
        
        
            </ContentDoc>

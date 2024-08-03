@@ -1,6 +1,6 @@
 <template>
   <NavBarreComponent />
-  <div class=" bg-white
+  <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500
    mt-[17%] 
         sm:mt-[35%] 
         md:mt-[25%]
