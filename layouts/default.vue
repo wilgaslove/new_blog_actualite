@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- <ColorMode /> -->
     <PubliciteDroit />
     <PubliciteGauche />
     <BarreDefillante />

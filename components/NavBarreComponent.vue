@@ -1,6 +1,7 @@
 <template>
   <div>
-
+    
+    
     <body>
       <nav class="navbar dark-mode" role="navigation">
         <div class="container relative">
@@ -18,6 +19,7 @@
             <span class="bar"></span>
           </button>
         </div>
+        <ColorMode />
       </nav>
     </body>
   </div>

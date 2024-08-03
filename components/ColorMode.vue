@@ -7,6 +7,7 @@
           {{ isDark ? 'Dark' : 'Light' }}
       </span>
   </button>
+
 </template>
 
 <script setup lang="ts">

@@ -1,5 +1,5 @@
 import { useDark } from "@vueuse/core";
 
 export const isDark = useDark({
-    storageKey: 'wediscuss-theme-apparence'
+    storageKey: 'new_blog_actualite-theme-apparence'
 });
