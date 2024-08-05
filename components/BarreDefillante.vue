@@ -26,7 +26,7 @@
   <div class="relative defillantephoto">
     <marquee behavior="scroll" direction="right" 
     class="  marquee fixed font-bold   bottom-[8%]  text-lg text-white 
-      h-[30%] w-[20%] sm:hidden sm:bottom-[-7%] md:left-[82%] lg:left-[75%]  2xl:left-[75%] 2xl:right-0  xl:left-[80%] " >
+      h-[30%] w-[20%] sm:hidden sm:bottom-[-7%] md:left-[82%] lg:left-[80%]  2xl:left-[75%] 2xl:right-0  xl:left-[80%] " >
       <img src="assets\img\logo.827ea6ee.png" alt="image 1" class=" object-cover imge w-full h-full">
       <img src="assets\img\image9.a7c463dd.webp" alt="image 2" class=" object-cover imge w-full h-full">
       <img src="assets\img\téléchargement.png" alt="image 3" class=" object-cover imge w-full h-full">
