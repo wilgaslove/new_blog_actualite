@@ -83,3 +83,7 @@ L'histoire du monde est une toile complexe tissée d'événements, de cultures e
 - "La Civilisation Méditerranéenne" - Jean-Pierre Vernant  
 - "Histoire de l'Humanité" - Jules Michelet  
 - "Les Grandes Découvertes" - Stephen Hawking
+---
+Rédigé par [Wilgas ADJOVI]
+
+

@@ -1,7 +1,7 @@
 <template>
   <NavBarreComponent />
   <div>
-    <ContentList path="/blog"  :query="query" >
+    <ContentList path="/technologie_science"  :query="query" >
        <template #default="{list}">
         <div class="
          mt-[17%] 
@@ -18,7 +18,7 @@
 
 
         ">
-          <div v-for="(blog, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba]  rounded-2xl
+          <div v-for="(technologie_science, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba]  rounded-2xl
           sm:w-[90%] sm:h-[20%]  sm:mx-auto
           md:w-[55%] md:h-[20%]  md:mx-auto
           lg:w-[55%] lg:h-[20%]  lg:mx-auto
@@ -27,13 +27,13 @@
 
           ">
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px] ">
-              <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
+              <img :src=" technologie_science.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
             <h2 class="font-bold text-2xl pl-[5px]">
-              <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>
+              <NuxtLink :to="'/technologie_science/' + technologie_science.slug">{{ technologie_science.title }}</NuxtLink>
             </h2>
-            <p v-if="blog.description" class="pl-[5px]" >{{ blog.description }}</p>
-            <p class="pl-[5px]" >{{ formatDate(blog.date) }}</p>
+            <p v-if="technologie_science.description" class="pl-[5px]" >{{ technologie_science.description }}</p>
+            <p class="pl-[5px]" >{{ formatDate(technologie_science.date) }}</p>
           </div>
         </div>
       
@@ -53,7 +53,7 @@
 import type { QueryBuilderParams } from '@nuxt/content';
 
 const query: QueryBuilderParams = { 
-  path: '/blog', 
+  path: '/technologie_science', 
   sort: [{ date: -1 }] 
   // limit: 5,
 }
