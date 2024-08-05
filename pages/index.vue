@@ -17,7 +17,7 @@
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
           2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
           ">
-            <img src="assets/img/pc_gamer.webp" alt=""class="">
+            <img src="assets/img/pc_gamer.webp" alt="image PC bureautique gamer"class="">
             <p>
                 
               <a target="_blank" href="https://wa.me/22995479236">Promo spéciale bureautique gamer chez le groupe Soldats_du_Christ 95-47-92-36</a>
