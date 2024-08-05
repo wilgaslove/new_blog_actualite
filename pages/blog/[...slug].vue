@@ -1,7 +1,7 @@
 <template>
 <NavBarreComponent /> 
   <div class="mt-[15%]  rounded-2xl
-  sm:mt-[30%] sm:mr-[22%]   sm:pt-10
+  sm:mt-[30%] sm:mx-auto  sm:pt-10
   md:mt-[18%] md:mx-[20%]  md:pt-10
   lg:mt-[15%] lg:mx-[20%]  lg:pt-4
   xl:mt-[15%] xl:mx-[20%]  xl:pt-4
