@@ -2,18 +2,14 @@
 title: "L'Histoire du Monde"
 description: "L'histoire du monde est une vaste chronologie qui englobe les événements, les civilisations et les évolutions qui ont façonné notre planète depuis ses débuts jusqu'à l'époque contemporaine. Ce voyage à travers le temps révèle l'émergence des sociétés humaines, leurs interactions et les changements qui ont marqué leur évolution." 
 tags: ["L'Histoire du Monde", "civilisations", "les évolutions", "Préhistoire", "Antiquité", "Le Moyen Âge", "Haut Moyen Âge", "La Renaissance", "Les Révolutions",  "Le 20e Siècle", "Le Monde Contemporain", "Globalisation et Technologie", "Défis Actuels"]
-slug: 'monnaie'
+slug: 'histoire_monde'
 thumbnail: '/img/histoire_monde.jpg'
 date: '2024-08-05'
 draft: false
 
 ---
 
-# L'Histoire du Monde
-
-L'histoire du monde est une vaste chronologie qui englobe les événements, les civilisations et les évolutions qui ont façonné notre planète depuis ses débuts jusqu'à l'époque contemporaine. Ce voyage à travers le temps révèle l'émergence des sociétés humaines, leurs interactions et les changements qui ont marqué leur évolution.
-
-## Les Origines de l'Humanité
+# Les Origines de l'Humanité
 
 ### Préhistoire
 
@@ -77,6 +73,9 @@ Les défis actuels incluent les changements climatiques, les inégalités écono
 ## Conclusion
 
 L'histoire du monde est une toile complexe tissée d'événements, de cultures et de transformations. Comprendre cette histoire nous aide à mieux appréhender le présent et à envisager l'avenir avec une perspective éclairée. L'étude de l'histoire nous rappelle également les leçons du passé et l'importance de la coopération et de la compréhension mutuelle dans notre monde globalisé.
+
+
+
 
 ---
 
