@@ -17,7 +17,7 @@
    </div>
 
 
-   <div class="  px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500
+   <div class=" sm:hidden  px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500
    fixed bottom-[21%] left-5   text-lg py-5  shadow-2xl  h-[30%] w-[15%] 
     sm:w-[25%] sm:h-[17%] sm:px-0 sm:text-xs sm:pt-0 sm:top-[55%] sm:left-[75%] 
     md:w-[20%] md:h-[10%] md:px-0 md:left-1 md:text-xs md:pt-0 md:bottom-[30%]
@@ -26,7 +26,7 @@
     2xl:w-[15%] 2xl:h-[20%] 2xl:px-0 2xl:left-[-5%] 2xl:text-xs 2xl:pt-0 2xl:ml-[15%] 2xl:bottom-[20%]
    ">
       
-      <div class="
+      <div class=" 
       md:text-xs md:px-0 md:pt-0 
       lg:text-xs lg:px-0 lg:pt-0 
       xl:text-xs xl:px-0 xl:pt-0 

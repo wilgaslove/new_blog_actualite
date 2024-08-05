@@ -1,5 +1,5 @@
 <template>
-  <div class="relative bg-white">
+  <div class="relative bg-white sm:hidden">
     
     
     <div class=" bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500

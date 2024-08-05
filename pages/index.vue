@@ -7,8 +7,46 @@
      2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[15%] 2xl:mx-[22%] 
        ">
 
+
+       <div class="md:hidden lg:hidden xl:hidden 2xl:hidden" >
+        <a target="_blank" href="https://wa.me/22995479236">
+          <div class=" dark:bg-slate-600
+          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+          ">
+            <img src="assets/img/pc_gamer.webp" alt=""class="">
+            <p>
+                
+              <a target="_blank" href="https://wa.me/22995479236">Promo spéciale bureautique gamer chez le groupe Soldats_du_Christ 95-47-92-36</a>
+            </p>
+          </div>
+        </a>
+      </div>
+      
+      <div class="md:hidden lg:hidden xl:hidden 2xl:hidden" >
+        <a  href="/autrepages/pubclient">
+          <div class=" dark:bg-slate-600
+          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+          ">
+            <img src="assets\img\Front.png" alt=""class="image de bijoutérie">
+            <p>
+                
+              <a target="" href="/autrepages/pubclient"> Visitez votre boutique de Bijoux  à Tokpa 
+                97 14 91 88</a>
+            </p>
+          </div>
+        </a>
+      </div>
+
        
-       <div >
+         <div >
              <div class="  dark:bg-slate-600 
              sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 
@@ -44,7 +82,7 @@
              </div>
          </div>
    
-        <div>
+         <div>
              <div class=" dark:bg-slate-600
              sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
@@ -97,45 +135,45 @@
                        </p>
                      </div>
                    </a>
-                 </div>
+         </div>
            
-                 <div>
-                           
-                   <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">
-                     <div class=" dark:bg-slate-600
-                     sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
-                     md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-                     lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-                     xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-                     2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-                     ">
-                       <img src="assets\img\opposition_france.webp" alt=""class="">
-                       <p>
-                           
-                         <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">Présidence de l’Assemblée : Braun-Pivet réélue, l’opposition déplore une victoire « contre nature »</a>
-                       </p>
-                     </div>
-                   </a>
-                 </div>
+        <div>
+                  
+          <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">
+            <div class=" dark:bg-slate-600
+            sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+            md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+            lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+            xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+            2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+            ">
+              <img src="assets\img\opposition_france.webp" alt=""class="">
+              <p>
+                  
+                <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">Présidence de l’Assemblée : Braun-Pivet réélue, l’opposition déplore une victoire « contre nature »</a>
+              </p>
+            </div>
+          </a>
+        </div>
            
-                 <div>
-                           
-                   <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
-                     <div class=" dark:bg-slate-600
-                     sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
-                     md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-                     lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-                     xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-                     2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-                     ">
-                       <img src="assets\img\wilfried.jpg" alt=""class="image du porte parale du gourvernement béninois">
-                       <p>
-                           
-                         <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">Le Bénin répond aux accusations du Burkina</a>
-                       </p>
-                     </div>
-                   </a>
-                 </div>
+          <div>
+                    
+            <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
+              <div class=" dark:bg-slate-600
+              sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+              2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+              ">
+                <img src="assets\img\wilfried.jpg" alt=""class="image du porte parale du gourvernement béninois">
+                <p>
+                    
+                  <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">Le Bénin répond aux accusations du Burkina</a>
+                </p>
+              </div>
+            </a>
+          </div>
    
    
        <div>

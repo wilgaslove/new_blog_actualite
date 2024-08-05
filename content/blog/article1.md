@@ -1,7 +1,7 @@
 ---
 title: 'L`intelligence artificiel (IA)'
 description: 'Un article qui permet...'
-tags: ["programmation", "tech", "JS"]
+tags: ["programmation", "tech", "JS", "IA", "Intelligence Artificielle", "Nouvelle technologie"]
 slug: 'article1'
 thumbnail: '/img/concept-intelligence-artificielle-robot-futuriste_31965-6958.webp'
 draft: false
