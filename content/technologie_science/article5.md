@@ -1,11 +1,11 @@
 ---
 title: "L'ADN  porte les gènes qui codent pour les caractères héréditaires"
-description: 'Un article qui permet...'
-tags: ["politique", "intêret", "avantange"]
+description: "L'ADN, ou acide désoxyribonucléique, est la molécule qui contient l'ensemble des informations génétiques nécessaires au développement, au fonctionnement et à la reproduction de tous les organismes vivants. Les gènes, segments spécifiques de l'ADN, sont responsables du codage des caractères héréditaires qui se transmettent de génération en génération."
+tags: ["L'ADN ", "Structure de l'ADN", "Double Hélice", "Bases Azotées", "Les Gènes", "Codage Génétique"]
 slug: 'article5'
 thumbnail: '/img/caractere-hereditaire-adn.webp'
 draft: false
-date: '2024-06-26'
+date: '2024-08-05'
 ---
 # L'ADN : Le Code des Caractères Héréditaires
 

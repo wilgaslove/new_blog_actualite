@@ -7,7 +7,7 @@
         <div class="container relative lg:inline-block lg:min-w-max lg:scroll-mx-14 ">
           <ul class="navbar__links fixed top-6 xl:sclo">
             <li class="navbar__link first"><a class="navbarre"><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link third"><a class="navbarre"><NuxtLink to="/technologie_science">Technologie & Sciences</NuxtLink></a></li>
+            <li class="navbar__link third"><a class="navbarre"><NuxtLink to="/technologie_science">Technologie & Science</NuxtLink></a></li>
             <li class="navbar__link four"><a class="navbarre"><NuxtLink to="/politique">Politique</NuxtLink></a></li>
             <li class="navbar__link fifth"><a class="navbarre"><NuxtLink to="/culture">Culture</NuxtLink></a></li>
             <li class="navbar__link six"><a class="navbarre"><NuxtLink to="/literature">Littérature</NuxtLink></a></li>
