@@ -38,8 +38,8 @@
         
         <h1 class="font-bold  sm:px-0 dark:bg-slate-500">
           <a href="/autrepages/pubclient" >
-            Visitez votre boutique de Bijoux  à Tokpa 
-             97 14 91 88
+            Visitez votre boutique de Bijoux à Tokpa <br>
+             (+229)97 14 91 88
           </a>
         </h1>
       </div>
