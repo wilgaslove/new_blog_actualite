@@ -5,7 +5,7 @@ tags: ["amour", "vie", "conseil", "hommage", "soldat", "guerre"]
 slug: 'soldat_africain'
 thumbnail: '/img/soldat_africain.webp'
 draft: false
-date: '2024-06-26'
+date: '2024-08-04'
 ---
 # La Quête d'un Soldat Africain : De la Guerre à la Retrouvaille
 

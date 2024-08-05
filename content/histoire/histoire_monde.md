@@ -3,7 +3,7 @@ title: "L'Histoire du Monde"
 description: "L'histoire du monde est une vaste chronologie qui englobe les événements, les civilisations et les évolutions qui ont façonné notre planète depuis ses débuts jusqu'à l'époque contemporaine. Ce voyage à travers le temps révèle l'émergence des sociétés humaines, leurs interactions et les changements qui ont marqué leur évolution." 
 tags: ["L'Histoire du Monde", "civilisations", "les évolutions", "Préhistoire", "Antiquité", "Le Moyen Âge", "Haut Moyen Âge", "La Renaissance", "Les Révolutions",  "Le 20e Siècle", "Le Monde Contemporain", "Globalisation et Technologie", "Défis Actuels"]
 slug: 'monnaie'
-thumbnail: '/img/Jeton_de_la_corporation_des_monnayeurs_et_ajusteurs_de_la_Monnaie_de_Paris.webp'
+thumbnail: '/img/histoire_monde.jpg'
 date: '2024-08-05'
 draft: false
 
