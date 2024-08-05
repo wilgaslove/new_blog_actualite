@@ -4,7 +4,7 @@
       <Icon v-if="!isDark" icon="carbon:moon" />
       
       <span class="ml-2">
-          {{ isDark ? 'Dark' : 'Light' }}
+          {{ isDark ? 'Light' : 'Dark' }}
       </span>
   </button>
 
