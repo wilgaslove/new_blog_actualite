@@ -32,17 +32,16 @@
       xl:text-xs xl:px-0 xl:pt-0 
       2xl:text-xs 2xl:px-0 2xl:pt-0  
       ">
-        <a href="/autrepages/pubclient">
-          <img src="assets\img\Front.png" alt="" class="object-cover " >
-        </a>
-        
+      <a href="/autrepages/pubclient">
+        <img src="assets\img\Front.png" alt="" class="object-cover " >
+      </a>        
         <h1 class="font-bold  sm:px-0 dark:bg-slate-500">
           <a href="/autrepages/pubclient" >
             Visitez votre boutique de Bijoux à Tokpa <br>
              (+229)97 14 91 88
-          </a>
-        </h1>
-      </div>
+            </a>
+          </h1>
+        </div>
       
     </div>
 
