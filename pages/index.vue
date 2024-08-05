@@ -1,7 +1,7 @@
 <template>
    <NavBarreComponent />
      <div class="  text-slate-800 dark:text-gray-200 bg-gray-200 dark:bg-slate-800 ">
-     <div class="flex flex-wrap mt-[1%] mb-[10%] sm:mt-[30%] md:mt-[18%]
+     <div class="flex flex-wrap mt-[1%] mb-[10%] sm:mt-[30%] md:mt-[18%] 
      lg:grid lg:grid-cols-2 lg:gap-0  lg:mt-[15%] lg:mx-[22%]
      xl:grid xl:grid-cols-2 xl:gap-0  xl:mt-[15%] xl:mx-[22%]
      2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[15%] 2xl:mx-[22%] 
@@ -11,7 +11,7 @@
        <div class="md:hidden lg:hidden xl:hidden 2xl:hidden" >
         <a target="_blank" href="https://wa.me/22995479236">
           <div class=" dark:bg-slate-600
-          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
           md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
           lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -29,7 +29,7 @@
       <div class="md:hidden lg:hidden xl:hidden 2xl:hidden" >
         <a  href="/autrepages/pubclient">
           <div class=" dark:bg-slate-600
-          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
           md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
           lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -48,7 +48,7 @@
        
          <div >
              <div class="  dark:bg-slate-600 
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 
@@ -66,7 +66,7 @@
    
          <div>
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -84,7 +84,7 @@
    
          <div>
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -102,7 +102,7 @@
 
          <div>
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -122,7 +122,7 @@
                    
                    <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
                      <div class=" dark:bg-slate-600
-                     sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+                     sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
                      md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
                      lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
                      xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -141,7 +141,7 @@
                   
           <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">
             <div class=" dark:bg-slate-600
-            sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+            sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -160,7 +160,7 @@
                     
             <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
               <div class=" dark:bg-slate-600
-              sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+              sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
               md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
               lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
               xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -178,7 +178,7 @@
    
        <div>
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -197,7 +197,7 @@
    
          <div>
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -214,10 +214,9 @@
          </div>
    
          <div>
-                   
            <a target="_blank" href="https://theconversation.com/la-politique-etrangere-de-la-france-apres-les-legislatives-le-prix-du-chaos-233390">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -235,7 +234,7 @@
                    
            <a target="_blank" href="https://www.youtube.com/watch?v=-XAIAfq1Wd8">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -255,7 +254,7 @@
                    
            <a target="_blank" href="https://www.rfi.fr/fr/podcasts/l-accent-des-autres/20240615-migrations-le-canada-est-le-cinqui%C3%A8me-pays-qui-accueille-le-plus-de-migrants-dans-le-monde">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -274,7 +273,7 @@
                    
            <a target="_blank" href="https://actu.capital.fr/economie-politique/un-tribunal-russe-saisit-plusieurs-centaines-de-millions-deuros-appartenant-a-trois-banques-europeennes-1496948?utm_source=outbrain&utm_medium=cpc&utm_term=FR_France+24+fr+%28Audiovisuel+Ext%C3%A9rieur+de+la+France+SA%29_France+24+-+Afrique&utm_content=Un+tribunal+russe+saisit+plusieurs+centaines+de+millions+d%E2%80%99euros%E2%80%AFappar&utm_campaign=pmo_cap_article_desktop_desktop_enfant_geoloc_flux_cat_eco_politique_3&dicbo=v4-M5uKiYF-1081550216">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -293,7 +292,7 @@
                    
            <a target="_blank" href="https://www.24haubenin.info/?Des-Camerounais-arretes-et-juges-a-la-CRIET">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -309,10 +308,9 @@
          </div>
    
          <div class="mx-[1%] w-[100%]">
-                   
            <a target="_blank" href="https://www.youtube.com/watch?v=dylowtjlf8w">
              <div class="  dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -334,10 +332,9 @@
    
    
          <div>
-                   
            <a target="_blank" href="https://information.tv5monde.com/direct/direct-proche-orient-echanges-de-tirs-la-frontiere-israelo-libanaise-2727772">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -356,7 +353,7 @@
                    
            <a target="_blank" href="https://information.tv5monde.com/international/prisons-77880-detenus-au-1er-juin-en-france-nouveau-record-2727760">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -375,7 +372,7 @@
                    
            <a target="_blank" href="https://information.tv5monde.com/direct/direct-ukraine-la-guerre-naurait-pas-eu-lieu-si-les-etats-unis-avaient-un-president-respecte">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -394,7 +391,7 @@
                    
            <a target="_blank" href="https://information.tv5monde.com/societe/justice-quel-sort-pour-lartiste-malienne-rokia-traore-detenue-rome-2727084">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -413,7 +410,7 @@
                    
            <a target="_blank" href="https://information.tv5monde.com/afrique/florent-couao-zotti-les-autorites-nigeriennes-ont-besoin-de-se-creer-une-bete-noire-pour">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -432,7 +429,7 @@
                    
            <a target="_blank" href="https://information.tv5monde.com/international/drones-americains-en-mer-noire-la-russie-menace-lotan-dune-confrontation-directe">
              <div class=" dark:bg-slate-600
-             sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
              md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
              lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
              xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
@@ -447,7 +444,6 @@
            </a>
          </div>
        </div>
-      
    
      </div>
    
