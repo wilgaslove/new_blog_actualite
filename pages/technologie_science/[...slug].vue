@@ -5,7 +5,7 @@
   md:mt-[18%] md:mx-[20%]  md:pt-10
   lg:mt-[15%] lg:mx-[20%]  lg:pt-4
   xl:mt-[15%] xl:mx-[20%]  xl:pt-4
-  2xl:mt-[15%] 2xl:mx-[20%] 2xl:pt-4
+  2xl:mt-[15%] 2xl:mx-auto 2xl:pt-4 2xl:w-[75%] 
   ">
 
      <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500
@@ -13,7 +13,7 @@
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du blog-->
         <div class=" p-5">
-          <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem] lg:text-[2rem] xl:text-[2rem] 2xl:text-[2.5rem] ">{{ doc.title }}</h1>
+          <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem] lg:text-[2rem] xl:text-[2rem] 2xl:text-[2rem] py-8 ">{{ doc.title }}</h1>
           <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%] ">
         </div>
        
