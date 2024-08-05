@@ -2,19 +2,19 @@
 <NavBarreComponent />
 
   <div class="mt-[15%]  rounded-2xl 
-  sm:mt-[30%] sm:mr-[22%]   sm:pt-10
+  sm:mt-[30%]    sm:pt-10
   md:mt-[18%] md:mx-[20%]  md:pt-10
   lg:mt-[15%] lg:mx-[20%]  lg:pt-4
   xl:mt-[15%] xl:mx-[20%]  xl:pt-4
   2xl:mt-[15%] 2xl:mx-[20%] 2xl:pt-4
   ">
 
-     <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500 ">
+     <div class="bg-white px-4 text-slate-800 dark:text-gray-200 dark:bg-slate-500  sm:mx-auto">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du amour-->
         <div class=" p-5">
           <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem] lg:text-[2rem] xl:text-[2rem] 2xl:text-[2.5rem]">{{ doc.title }}</h1>
-          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%] ">
+          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%]">
         </div>
        
         <p class="text-gray-500 text-sm mt-2 pl-[5px]">
