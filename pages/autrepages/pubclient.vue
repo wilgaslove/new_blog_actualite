@@ -15,7 +15,7 @@
   ">
     <div class="
          
-          sm:w-[90%] sm:h-[20%] pb-4
+          sm:w-[95%] sm:h-[20%] pb-4
           md:w-[55%] md:h-[20%]  md:mx-auto
           lg:w-[55%] lg:h-[20%]  lg:mx-auto
           xl:w-[55%] xl:h-[20%]  xl:mx-auto
