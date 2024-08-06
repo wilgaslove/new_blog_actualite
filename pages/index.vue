@@ -45,6 +45,23 @@
         </a>
       </div>
 
+      <div >
+             <div class="  dark:bg-slate-600 
+             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 
+             md:w-[55%] md:mx-auto md:justify-center md:mt-4 
+             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 
+             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 
+             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 
+             ">
+                   
+               <a target="_blank" href="https://www.rfi.fr/fr/afrique/20240805-le-mali-rompt-ses-relations-diplomatiques-avec-l-ukraine-%C3%A0-la-suite-d-une-vid%C3%A9o">
+               <img src="assets\img\99678-ukr.webp" alt="image Osez la pureté"  class="">
+               </a>
+               <p >
+                   
+                 <a target="_blank" href="https://www.rfi.fr/fr/afrique/20240805-le-mali-rompt-ses-relations-diplomatiques-avec-l-ukraine-%C3%A0-la-suite-d-une-vid%C3%A9o">Le Mali rompt ses relations diplomatiques avec l'Ukraine à la suite d'une vidéo.</a></p>
+             </div>
+      </div>
        
          <div >
              <div class="  dark:bg-slate-600 
