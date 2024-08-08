@@ -63,41 +63,41 @@
              </div>
       </div>
        
-         <div >
-             <div class="  dark:bg-slate-600 
-             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 
-             md:w-[55%] md:mx-auto md:justify-center md:mt-4 
-             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 
-             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 
-             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 
-             ">
-                   
-               <a target="_blank" href="https://www.bbc.com/afrique/articles/cne4k0pwyevo">
-               <img src="assets\img\DANGOTE_FA74_P.12-a-13_President-Akinwumi-Adesina-Aliko-Dangote-visit-to-the-dangote-refinery-nigeria_@Afdb_4.png" alt="image Osez la pureté"  class="">
-               </a>
-               <p >
-                   
-                 <a target="_blank" href="https://www.bbc.com/afrique/articles/cne4k0pwyevo">Trois choses que le gouvernement du Nigeria vient d'accepter de faire pour la raffinerie d'Aliko Dangote.</a></p>
-             </div>
-         </div>
+      <div >
+          <div class="  dark:bg-slate-600 
+          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 
+          ">
+                
+            <a target="_blank" href="https://www.bbc.com/afrique/articles/cne4k0pwyevo">
+            <img src="assets\img\DANGOTE_FA74_P.12-a-13_President-Akinwumi-Adesina-Aliko-Dangote-visit-to-the-dangote-refinery-nigeria_@Afdb_4.png" alt="image Osez la pureté"  class="">
+            </a>
+            <p >
+                
+              <a target="_blank" href="https://www.bbc.com/afrique/articles/cne4k0pwyevo">Trois choses que le gouvernement du Nigeria vient d'accepter de faire pour la raffinerie d'Aliko Dangote.</a></p>
+          </div>
+      </div>
    
-         <div>
-             <div class=" dark:bg-slate-600
-             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
-             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-             ">
-                   
-               <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">
-               <img src="assets\img\independance-960x960.jpeg" alt="image Osez la pureté"  class="">
-               </a>
-               <p >
-                   
-                 <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">1er août 2024 : 64e célébration de l'Indépendance du Bénin | manifestations officielles.</a></p>
-             </div>
-         </div>
+      <div>
+          <div class=" dark:bg-slate-600
+          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+          ">
+                
+            <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">
+            <img src="assets\img\independance-960x960.jpeg" alt="image Osez la pureté"  class="">
+            </a>
+            <p >
+                
+              <a target="_blank" href="https://www.youtube.com/watch?v=8HiAP1Vz13M">1er août 2024 : 64e célébration de l'Indépendance du Bénin | manifestations officielles.</a></p>
+          </div>
+      </div>
    
          <div>
              <div class=" dark:bg-slate-600
