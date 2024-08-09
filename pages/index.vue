@@ -45,6 +45,61 @@
         </a>
       </div>
 
+      <div>
+       
+       <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/en-israel-plusieurs-lignes-s-affrontent-sur-la-suite-de-la-guerre-a-gaza-et-ses-implications-regionales_6274144_3210.html">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="assets\img\israel.jpg" alt="image"class="">
+           <p>
+               
+             <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/en-israel-plusieurs-lignes-s-affrontent-sur-la-suite-de-la-guerre-a-gaza-et-ses-implications-regionales_6274144_3210.html">En Israël, plusieurs lignes s’affrontent sur la suite de la guerre à Gaza et ses implications régionales</a>
+           </p>
+         </div>
+       </a>
+     </div>
+     <div>
+       
+       <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/bangladesh-pour-muhammad-yunus-banquier-des-pauvres-une-accession-tardive-et-surprise-au-pouvoir_6273791_3210.html">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="public\img\bangladesh.png" alt=" président bangladesh"class="">
+           <p>
+               
+             <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/bangladesh-pour-muhammad-yunus-banquier-des-pauvres-une-accession-tardive-et-surprise-au-pouvoir_6273791_3210.html">Au Bangladesh, Muhammad Yunus, le « banquier des pauvres » devenu chef du gouvernement</a>
+           </p>
+         </div>
+       </a>
+     </div>
+     <div>
+       
+       <a target="_blank" href="https://www.lemonde.fr/international/live/2024/08/09/en-direct-guerre-en-ukraine-le-bilan-de-l-attaque-d-un-supermarche-dans-l-oblast-de-donetsk-s-alourdit-sur-fond-d-incursion-ukrainienne-en-russie_6266589_3210.html">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="" alt=""class="">
+           <p>
+               
+             <a target="_blank" href="https://www.lemonde.fr/international/live/2024/08/09/en-direct-guerre-en-ukraine-le-bilan-de-l-attaque-d-un-supermarche-dans-l-oblast-de-donetsk-s-alourdit-sur-fond-d-incursion-ukrainienne-en-russie_6266589_3210.html">En direct, guerre en Ukraine : le bilan de l’attaque d’un supermarché dans l’oblast de Donetsk s’alourdit, sur fond d’incursion ukrainienne en Russie</a>
+           </p>
+         </div>
+       </a>
+     </div>
+
       <div >
              <div class="  dark:bg-slate-600 
              sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 
@@ -99,60 +154,60 @@
           </div>
       </div>
    
-         <div>
-             <div class=" dark:bg-slate-600
-             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
-             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-             ">
-                   
-               <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">
-               <img src="assets\img\osez_la_purete.jpeg" alt="image Osez la pureté"  class="">
-               </a>
-               <p >
-                   
-                 <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">LANCEMENT OFFICIEL DU LIVRE OSEZ LA PURETÉ.</a></p>
-             </div>
-         </div>
+      <div>
+          <div class=" dark:bg-slate-600
+          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+          ">
+                
+            <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">
+            <img src="assets\img\osez_la_purete.jpeg" alt="image Osez la pureté"  class="">
+            </a>
+            <p >
+                
+              <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">LANCEMENT OFFICIEL DU LIVRE OSEZ LA PURETÉ.</a></p>
+          </div>
+      </div>
 
-         <div>
-             <div class=" dark:bg-slate-600
-             sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
-             md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-             lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-             xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-             2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-             ">
-                   
-               <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">
-               <img src="assets\img\Paola Egonu.jpg" alt="image Osez la pureté"  class="">
-               </a>
-               <p >
-                   
-                 <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">JO 2024 : Paola Egonu, star du volley-ball italien et figure de la lutte antiraciste.</a></p>
-             </div>
+     <div>
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+               
+           <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">
+           <img src="assets\img\Paola Egonu.jpg" alt="image Osez la pureté"  class="">
+           </a>
+           <p >
+               
+             <a target="_blank" href="https://www.lemonde.fr/sport/article/2024/08/01/jo-2024-paola-egonu-star-du-volley-ball-italien-et-figure-de-la-lutte-antiraciste_6263939_3242.html">JO 2024 : Paola Egonu, star du volley-ball italien et figure de la lutte antiraciste.</a></p>
          </div>
+     </div>
    
-         <div>
-                   
-                   <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
-                     <div class=" dark:bg-slate-600
-                     sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
-                     md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
-                     lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
-                     xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
-                     2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
-                     ">
-                       <img src="assets\img\trump.jpg" alt=""class="">
-                       <p>
-                           
-                         <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
-                       </p>
-                     </div>
-                   </a>
+     <div>
+       
+       <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="assets\img\trump.jpg" alt=""class="">
+           <p>
+               
+             <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
+           </p>
          </div>
+       </a>
+     </div>
            
         <div>
                   
