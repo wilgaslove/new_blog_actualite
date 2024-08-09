@@ -4,7 +4,7 @@
      <div class="flex flex-wrap mt-[1%] mb-[10%] sm:mt-[30%] md:mt-[18%] 
      lg:grid lg:grid-cols-2 lg:gap-0  lg:mt-[15%] lg:mx-[22%]
      xl:grid xl:grid-cols-2 xl:gap-0  xl:mt-[15%] xl:mx-[22%]
-     2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[15%] 2xl:mx-[22%] 
+     2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[14%] 2xl:mx-[22%] 
        ">
 
 

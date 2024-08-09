@@ -2,11 +2,11 @@
   <!-- Utilisation du module marquee de nuxt: npx nuxi@latest module add marquee -->
   <div class="barrdefillante">
     <marquee behavior="scroll" direction="left" class=" text-slate-800 dark:text-gray-200 bg-white dark:bg-slate-800  marquee fixed  left-0 right-0 py-4 text-lg  font-bold
-    sm:top-[8%]
+    sm:top-[9%]
     md:top-[7%]
     lg:top-[7%]
-    xl:top-[7%]
-    2xl:top-[7%]" style="width: 100vw;">
+    xl:top-[8%]
+    2xl:top-[7.5%]" style="width: 100vw;">
       <p>Wilgas ADJOVI entrepreneur, blogueur et développeur;  vous invite à rejoindre son équipe pour des aventures fabuleuses. Contact : (+229) 95-47-92-36.</p>
 
       <p>Dr Love en promotion des PC neufs et occasion à l'état neuf. Contact : (+229) 95-47-92-36.</p>
