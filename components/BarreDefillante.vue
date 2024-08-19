@@ -6,7 +6,7 @@
     md:top-[7%]
     lg:top-[7%]
     xl:top-[8%]
-    2xl:top-[7.5%]" style="width: 100vw;">
+    2xl:top-[7%]" style="width: 100vw;">
       <p>Wilgas ADJOVI entrepreneur, blogueur et développeur;  vous invite à rejoindre son équipe pour des aventures fabuleuses. Contact : (+229) 95-47-92-36.</p>
 
       <p>Dr Love en promotion des PC neufs et occasion à l'état neuf. Contact : (+229) 95-47-92-36.</p>
@@ -25,7 +25,7 @@
 
   <div class="relative defillantephoto">
     <marquee behavior="scroll" direction="right" 
-    class="  marquee fixed font-bold   bottom-[8%]  text-lg text-white 
+    class="  marquee fixed font-bold   bottom-[15%]  text-lg text-white 
       h-[30%] w-[20%] sm:hidden sm:bottom-[-7%] md:left-[82%] lg:left-[80%]  2xl:left-[75%] 2xl:right-0  xl:left-[80%] " >
       <img src="assets\img\logo.827ea6ee.png" alt="image 1" class=" object-cover imge w-full h-full">
       <img src="assets\img\image9.a7c463dd.webp" alt="image 2" class=" object-cover imge w-full h-full">

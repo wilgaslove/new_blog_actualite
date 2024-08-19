@@ -4,7 +4,7 @@
      <div class="flex flex-wrap mt-[1%] mb-[10%] sm:mt-[30%] md:mt-[18%] 
      lg:grid lg:grid-cols-2 lg:gap-0  lg:mt-[15%] lg:mx-[22%]
      xl:grid xl:grid-cols-2 xl:gap-0  xl:mt-[15%] xl:mx-[22%]
-     2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[14%] 2xl:mx-[22%] 
+     2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[15%] 2xl:mx-[22%] 
        ">
 
 
@@ -91,7 +91,7 @@
          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
          ">
-           <img src="assets\img\ukraine.jpg" alt="image ukraine"class="">
+           <img src="assets\img\ukraine.jpg" alt="image "class="">
            <p>
                
              <a target="_blank" href="https://www.lemonde.fr/international/live/2024/08/09/en-direct-guerre-en-ukraine-le-bilan-de-l-attaque-d-un-supermarche-dans-l-oblast-de-donetsk-s-alourdit-sur-fond-d-incursion-ukrainienne-en-russie_6266589_3210.html">En direct, guerre en Ukraine : le bilan de l’attaque d’un supermarché dans l’oblast de Donetsk s’alourdit, sur fond d’incursion ukrainienne en Russie</a>
