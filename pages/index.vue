@@ -553,7 +553,5 @@
      margin-left: 2px;
    }
 
-   div div p{
-    /* background-color: white; */
-   }
+   
    </style>
