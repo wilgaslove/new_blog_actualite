@@ -65,6 +65,25 @@
      </div>
      <div>
        
+       <a target="_blank" href="https://www.rfi.fr/fr/afrique/20240819-b%C3%A9nin-l-opposition-s-unit-%C3%A0-cotonou-pour-r%C3%A9clamer-la-lib%C3%A9ration-du-cyberactiviste-fr%C3%A8re-hounvi">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="assets\img\hounvi.jpg" alt="image du frère hounvi, talon et ganssigbé"class="">
+           <p>
+               
+             <a target="_blank" href="https://www.rfi.fr/fr/afrique/20240819-b%C3%A9nin-l-opposition-s-unit-%C3%A0-cotonou-pour-r%C3%A9clamer-la-lib%C3%A9ration-du-cyberactiviste-fr%C3%A8re-hounvi">Bénin: l'opposition s'unit à Cotonou pour réclamer la libération du cyberactiviste «Frère Hounvi»</a>
+           </p>
+         </div>
+       </a>
+     </div>
+
+     <div>
+       
        <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/bangladesh-pour-muhammad-yunus-banquier-des-pauvres-une-accession-tardive-et-surprise-au-pouvoir_6273791_3210.html">
          <div class=" dark:bg-slate-600
          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
@@ -532,5 +551,9 @@
    p {
      margin-top: 4px;
      margin-left: 2px;
+   }
+
+   div div p{
+    /* background-color: white; */
    }
    </style>
