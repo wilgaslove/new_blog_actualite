@@ -1,13 +1,12 @@
 ---
 title: "Le Procès du Frère Hounvi à la CRIET au Bénin"
 description: "Le Bénin est actuellement le théâtre d'un procès très médiatisé impliquant le Frère Hounvi, une figure religieuse bien connue dans la région."
-tags: ["télévisé", "Joe Biden", "Donald Trump", "présidentielle", "américaine", "républicain"]
+tags: ["Frère Hounvi", "Le Bénin ", "CRIET", "Accusations", "Réactions de la Population", "Le procès du Frère Hounvi à la CRIET"]
 slug: 'hounvi_proces'
 thumbnail: '/img/Frere.jpg'
 draft: false
 date: '2024-08-19'
 ---
-# Le Procès du Frère Hounvi à la CRIET au Bénin
 
 ## Introduction
 
