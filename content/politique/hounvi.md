@@ -1,7 +1,7 @@
 ---
 title: "Arrestation du Frère Hounvi à Lomé au Togo"
 description: "Le Togo a été secoué par une nouvelle qui a rapidement fait le tour des médias locaux et internationaux."
-tags: ["télévisé", "Joe Biden", "Donald Trump", "présidentielle", "américaine", "républicain"]
+tags: ["rrestation du Frère Hounvi", "la communauté religieuse", "arrestation", "la Société Togolaise", "public", "Lomé"]
 slug: 'hounvi'
 thumbnail: '/img/hounvi.jpg'
 draft: false
