@@ -47,6 +47,25 @@
 
       <div>
        
+       <a target="_blank" href="https://www.lemonde.fr/international/live/2024/09/03/en-direct-guerre-en-ukraine-au-moins-41-morts-et-180-blesses-apres-des-tirs-de-missiles-russes-sur-la-ville-de-poltava-annonce-volodymyr-zelensky_6300754_3210.html">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="assets\img\ukrain.jpg" alt="image"class="">
+           <p>
+               
+             <a target="_blank" href="https://www.lemonde.fr/international/live/2024/09/03/en-direct-guerre-en-ukraine-au-moins-41-morts-et-180-blesses-apres-des-tirs-de-missiles-russes-sur-la-ville-de-poltava-annonce-volodymyr-zelensky_6300754_3210.html">L’institut militaire de la ville de Poltava visé par deux frappes de missiles russes</a>
+           </p>
+         </div>
+       </a>
+     </div>
+
+     <div>
+       
        <a target="_blank" href="https://www.lemonde.fr/international/article/2024/08/09/en-israel-plusieurs-lignes-s-affrontent-sur-la-suite-de-la-guerre-a-gaza-et-ses-implications-regionales_6274144_3210.html">
          <div class=" dark:bg-slate-600
          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
@@ -63,6 +82,7 @@
          </div>
        </a>
      </div>
+
      <div>
        
        <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/09/02/en-tunisie-la-commission-electorale-ne-valide-que-trois-candidats-pour-la-presidentielle_6302292_3212.html">
