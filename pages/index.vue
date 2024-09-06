@@ -46,7 +46,6 @@
       </div>
 
       <div>
-       
        <a target="_blank" href="https://www.france24.com/fr/info-en-continu/20240905-le-patron-de-telegram-durov-trouve-son-inculpation-en-france-surprenante-et-erron%C3%A9e">
          <div class=" dark:bg-slate-600
          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
