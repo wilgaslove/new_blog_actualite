@@ -1,6 +1,6 @@
 ---
 title: "Le concept de l'interconnectome cœur-cerveau"
-description: "L'année 2023 a été riche en avancées scientifiques et découvertes révolutionnaires."
+description: "L'interconnectome cœur-cerveau ouvre de nouvelles perspectives pour comprendre et traiter des maladies complexes qui touchent à la fois la santé mentale et cardiovasculaire."
 tags: ["Découvertes Scientifiques", "Avancées dans la Thérapie Génique", "Avancées en Intelligence Artificielle Générative", "", "", "",]
 slug: 'Cœur_Cerveau'
 thumbnail: '/img/coeur_cerveau.jpg'
