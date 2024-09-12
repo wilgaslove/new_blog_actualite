@@ -1,5 +1,5 @@
 <template>
-  <div>
+
     
     
     <body>
@@ -26,7 +26,7 @@
         <ColorMode class="sm:hidden md:hidden lg:hidden mr-[2rem]" />
       </nav>
     </body>
-  </div>
+ 
 </template>
 
 <script setup lang="ts">
