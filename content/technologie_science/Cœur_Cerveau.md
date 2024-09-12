@@ -1,7 +1,7 @@
 ---
 title: "Le concept de l'interconnectome cœur-cerveau"
 description: "L'interconnectome cœur-cerveau ouvre de nouvelles perspectives pour comprendre et traiter des maladies complexes qui touchent à la fois la santé mentale et cardiovasculaire."
-tags: ["Découvertes Scientifiques", "Avancées dans la Thérapie Génique", "Avancées en Intelligence Artificielle Générative", "", "", "",]
+tags: ["Découvertes Scientifiques", "Interconnectome", "Interconnectome Cœur-Cerveau", "Le rôle du système nerveux autonome", "L'axe cœur-cerveau et la santé mentale", "Les avancées scientifiques",]
 slug: 'Cœur_Cerveau'
 thumbnail: '/img/coeur_cerveau.jpg'
 draft: false
