@@ -3,7 +3,7 @@ title: "Le concept de l'interconnectome cœur-cerveau"
 description: "L'année 2023 a été riche en avancées scientifiques et découvertes révolutionnaires."
 tags: ["Découvertes Scientifiques", "Avancées dans la Thérapie Génique", "Avancées en Intelligence Artificielle Générative", "", "", "",]
 slug: 'Cœur_Cerveau'
-thumbnail: '/img/f0187830-black_holes_merging_illustration.jpg'
+thumbnail: '/img/coeur_cerveau.jpg'
 draft: false
 date: '2024-09-11'
 ---
