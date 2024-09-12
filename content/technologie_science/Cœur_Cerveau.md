@@ -55,8 +55,7 @@ L'interconnectome cœur-cerveau ouvre de nouvelles perspectives pour comprendre 
 
 L'avenir de la recherche sur l'interconnectome pourrait révolutionner les approches de prévention et de traitement, en soulignant l'importance de maintenir un équilibre entre le corps et l'esprit pour une santé optimale.
 
----
 
-Ce texte présente une vue d'ensemble des aspects liés à l'interaction cœur-cerveau. Tu peux l'adapter selon le format que tu préfères ou ajouter des sections supplémentaires en fonction des développements dans ce domaine.
+
 ---
 Rédigé par [Wilgas ADJOVI]
