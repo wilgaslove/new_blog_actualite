@@ -55,7 +55,7 @@
          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
          ">
-           <img src="assets/img/talontiani.png" alt="image"class="">
+           <img src="assets\img\talontiani.png" alt="image"class="">
            <p>
                
              <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">Crise du pétrole entre le Niger et le Bénin : l’amorce d’un dégel</a>
