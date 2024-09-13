@@ -45,6 +45,27 @@
         </a>
       </div>
 
+
+      <div>
+       <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">
+         <div class=" dark:bg-slate-600
+         sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
+         md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
+         lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:
+         xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:
+         2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:
+         ">
+           <img src="assets\img\paveldurov.jpg" alt="image"class="">
+           <p>
+               
+             <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">Le patron de Telegram juge son inculpation en France "surprenante" et "erronée"</a>
+           </p>
+         </div>
+       </a>
+     </div>
+
+
+
       <div>
        <a target="_blank" href="https://www.france24.com/fr/info-en-continu/20240905-le-patron-de-telegram-durov-trouve-son-inculpation-en-france-surprenante-et-erron%C3%A9e">
          <div class=" dark:bg-slate-600
