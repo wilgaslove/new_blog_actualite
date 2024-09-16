@@ -47,7 +47,7 @@
 
 
       <!-- <div>
-       <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">
+       <a target="_blank" href="https://lanation.bj/environnement/concours-cotonou-ville-propre-des-equipes-de-supervision-deployees-dans-les-arrondissements">
          <div class=" dark:bg-slate-600
          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:
@@ -58,7 +58,7 @@
            <img src="assets\img\talontiani.png" alt="image"class="">
            <p>
                
-             <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">Concours « Cotonou ville propre »: Des équipes de supervision déployées dans les arrondissements</a>
+             <a target="_blank" href="https://lanation.bj/environnement/concours-cotonou-ville-propre-des-equipes-de-supervision-deployees-dans-les-arrondissements">Concours « Cotonou ville propre »: Des équipes de supervision déployées dans les arrondissements</a>
            </p>
          </div>
        </a>
