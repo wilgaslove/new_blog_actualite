@@ -58,7 +58,7 @@
            <img src="assets\img\talontiani.png" alt="image"class="">
            <p>
                
-             <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">Crise du pétrole entre le Niger et le Bénin : l’amorce d’un dégel</a>
+             <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">Concours « Cotonou ville propre »: Des équipes de supervision déployées dans les arrondissements</a>
            </p>
          </div>
        </a>
