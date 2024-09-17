@@ -46,7 +46,7 @@
       </div>
 
 
-      <!-- <div>
+      <div>
        <a target="_blank" href="https://lanation.bj/environnement/concours-cotonou-ville-propre-des-equipes-de-supervision-deployees-dans-les-arrondissements">
          <div class=" dark:bg-slate-600
          sm:w-[80%] sm:mx-auto  sm:justify-center sm:mt-4 sm:
@@ -62,7 +62,7 @@
            </p>
          </div>
        </a>
-     </div> -->
+     </div>
 
       <div>
        <a target="_blank" href="https://www.lemonde.fr/afrique/article/2024/08/22/crise-du-petrole-entre-le-niger-et-le-benin-l-amorce-d-un-degel_6290604_3212.html">
