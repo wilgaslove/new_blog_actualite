@@ -74,3 +74,5 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
+# Un plan de mis au point et de finalisation
+
