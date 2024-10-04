@@ -76,6 +76,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 # Un plan de mis au point et de finalisation
 
-Référence du dite en ligne. 
 Travaille sur proje tle week-end 
 
