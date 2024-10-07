@@ -78,4 +78,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 Travailler sur proje tle week-end 
 -Travailler les dimanche après le culte 
 - Référencement SEO
+- Publication du site 
 
