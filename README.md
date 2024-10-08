@@ -79,4 +79,5 @@ Travailler sur proje tle week-end
 -Travailler les dimanche après le culte 
 - Référencement SEO
 - Publication du site 
+- les mis à jour 
 
