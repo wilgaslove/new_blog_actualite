@@ -76,6 +76,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 # Un plan de mis au point et de finalisation
 Travailler sur proje tle week-end 
+- Création d'une nouvelle branche de production
 -Travailler les dimanche après le culte 
 - Référencement SEO
 - Publication du site 
