@@ -75,7 +75,7 @@ bun run preview
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 # Un plan de mis au point et de finalisation
-Travailler sur proje tle week-end 
+- Travailler sur mes projets les week-ends
 - Création d'une nouvelle branche de production
 -Travailler les dimanche après le culte 
 - Référencement SEO
