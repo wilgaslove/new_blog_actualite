@@ -80,5 +80,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 -Travailler les dimanche après le culte 
 - Référencement SEO
 - Publication du site 
-- les mis à jour 
+- les mis à jour
+- Revoir le chemin pour ajouter la partie Bénin 
 
